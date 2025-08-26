@@ -32,5 +32,7 @@ EasyCert is an interactive Bash script that helps you create a local Certificate
 ## Usage
 
 ```bash
-chmod +x interactive.sh
-./interactive.sh
+git clone https://github.com/Ilia-Shakeri/ٍEasyCert.git
+cd EasyCert
+chmod +x EasyCert.sh
+./EasyCert.sh
