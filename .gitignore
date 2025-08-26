@@ -1,0 +1,14 @@
+# Logs
+*.log
+
+# Certificates / keys / CSRs
+*.pem
+*.key
+*.csr
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Local config/env
+*.env
